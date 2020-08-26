@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Work hard in silence, let success be the noise.
+
 <!--
 **gopalgoel19/gopalgoel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
